@@ -6,6 +6,8 @@ Driven by the need for more efficient and seamless integration of physical model
 
 arXiv: https://arxiv.org/abs/2307.00379
 
+The code will be available after the revision of the final manuscript.
+
 ### Allen-Cahn example
 https://github.com/soanagno/rba-pinns/assets/65159898/55fcf3fb-a0a3-425b-ae0e-a644b4811afb
 
