@@ -15,7 +15,7 @@ The RBA initialization can also be edited in the same constructor:
 self.rsum = 0  # initial value
 self.eta = 0.001  # learning rate
 self.gamma = 0.999  # decay factor
-self.init = 1  # initialization mode (1 or 2)
+self.init = 1  # initialization mode (1 or 2, see Algorithm 1)
 ```
 
 The algorithm outputs the total loss, the realtive L2, the relative L infinity norm and the time (s)required for each iteration of the optimizer.
