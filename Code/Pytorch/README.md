@@ -1,7 +1,7 @@
 # Instructions
 
 Simply edit the constructor of the PINN class to activate each mode.
-Make sure that either rba or sa are activated but not both at the same time.
+Make sure that either RBA or SA weights are activated but not both at the same time.
 
 ```
 self.rba = 1  # activate RBA
