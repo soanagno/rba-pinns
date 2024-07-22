@@ -6,7 +6,7 @@ Make sure that either RBA or SA weights are activated but not both at the same t
 ```
 self.rba = 1  # activate RBA
 self.sa = 0  # activate SA
-self.first_opt = 30000  # Adam optimizer
+self.first_opt = 30000  # Adam optimizer iterations
 ```
 
 The RBA initialization can also be edited in the same constructor:
