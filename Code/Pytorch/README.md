@@ -1,8 +1,10 @@
 # File description
 
+```
 "allen-cahn_enhancements.ipynb": Best convergence inlcuding the PINN enhancements (Section 3.1).
 "allen-cahn_rba-sa.ipynb": Comparison of RBA vs SA vs Vanilla for the Allen-Cahn PDE (Section 3.4).
 "helmholtz_rba-sa.ipynb": Comparison of RBA vs SA vs Vanilla for the Helmholtz PDE (Section 3.4).
+```
 
 # Instructions
 
